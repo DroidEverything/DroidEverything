@@ -41,6 +41,10 @@ My current focus is on creating shell scripts to help Android users achieve bett
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=droideverything&theme=dark&hide_border=false)
 
+<p>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droideverything&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=droideverything&label=Profile%20Views%20Per%20Month&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 </br>
