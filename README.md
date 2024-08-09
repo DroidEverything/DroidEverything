@@ -45,7 +45,7 @@ My current focus is on creating shell scripts to help Android users achieve bett
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droideverything&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rem01gaming&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=droideverything&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
