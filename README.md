@@ -28,6 +28,7 @@ My current focus is on creating shell scripts to help Android users achieve bett
 
 <h2>🔭 What I'm Working On: </h2>
 <p>🔧<b> Shell Script Projects:</b> Crafting scripts to boost Android performance and user experience. </p>
+<p>🔧<b> Android App Projects:</b> Trying to change the world by building impactful apps. </p>
 <p>📚<b> Learning C++ and Java:</b> Expanding my programming language toolkit to include these powerful languages. </p>
 <p>🚀<b> Innovative Projects: </b> Always exploring new ideas and working on projects that push the boundaries of technology. </p>
 </br>
