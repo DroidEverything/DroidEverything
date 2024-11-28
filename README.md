@@ -8,8 +8,9 @@
 ![snake](https://github.com/user-attachments/assets/39d68c8c-60a8-4fa7-bd5b-d5b682c1bb57)
 
 
-<h2>🌟 About Me: </h2> 
-<p><b>Hello there !!!</b></br>
+<h2 style="color:white; background-color:#333;">🌟 About Me:</h2>
+<p style="color:white; background-color:#2C2C2C; padding:10px;">
+<b>Hello there !!!</b></br>
 I'm an aspiring software engineer with a passion for developing innovative solutions that enhance user experiences. </br>
 My current focus is on creating shell scripts to help Android users achieve better performance and a more seamless experience.</p>
 </br>
